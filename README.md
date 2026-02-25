@@ -51,6 +51,7 @@ Note that this code has only been developed and tested with NVIDIA Processors.
 
 | Year | Reference                                                                                  | Link |
 |------|--------------------------------------------------------------------------------------------|------|
+| 2026 | AutoPose: Pose-Mixing for Rare Human Video Data Augmentation to Enhance Recognition (MMM '26) | [Link]([https://developer.nvidia.com/blog/improving-synthetic-data-augmentation-and-human-action-recognition-with-synthda/](https://link.springer.com/chapter/10.1007/978-981-95-6960-1_44))|
 | 2025 | NVIDIA TechBlog: Improving Synthetic Data Augmentation and Human Action Recognition with SynthDa  | [Link](https://developer.nvidia.com/blog/improving-synthetic-data-augmentation-and-human-action-recognition-with-synthda/)|
 | 2024 | Designing a Usable Framework for Diverse Users in Synthetic Human Action Data Generation (Siggraph Asia '24) | [Link](https://dl.acm.org/doi/full/10.1145/3681758.3697986) |
 | 2024 | Review on synergizing the Metaverse and AI-driven synthetic data: enhancing virtual realms and activity recognition in computer vision (Springer) | [Link](https://link.springer.com/article/10.1007/s44267-024-00059-6) |
